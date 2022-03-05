@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "attendance-medical-records",
+  "private_key_id": "b68de2cf746dfc7d8ff978d53d265ef6cab7990c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCM97Oy8XxuQ+Ig\nDxTOiXmCIeAJiQO+6b4NZuCULlYcq15AwCBRywLk2ODBjqgA8azCSroZqJy2R87a\nXMYhJtjPgcfUqDWIsoXT8y3s6AGD4jS7DDiOU5upl6wqRmFzylUlqEVaYUmHSuTM\nBRfeyWbgzcY9q/eUlRDBBouYfDHGbE4hY8XRxTOrHnQOc+mgG2p9qv8URsXON8YX\nD+GEJII8EJv8+cCz4p3yPJrgtHe1NkZxB9EEFQKTYahuV8bo1gHJznMU4SZeuLrs\nBLnKBOfFPzZZX4EkWhOhSiDsdd5ZRhrWkpgRUO55fwfnvtpSxd9gFvXEAl1BfdLJ\nDc8/1LvVAgMBAAECggEAA+m3nr7OSJSbeRlXZ1jwkFisCoe3nLvfRH73upVDWv4K\nGpEFX0/bz4oSSb0nKQjhq0OowR/pjbPA6FXNQsv8a7ImCl9K8SBHemJ/LVrOo/W0\n/KuHrF0Mw/CLsmFha3XmgX+Xa+f/GFbPXWHCJQiBJw9Uh+S3SslifYEsLHo8us2/\nRWUZnauMzBDi3Oo/eDMnjLY9sysfo/mM7TfVuhHIGOcMifdczJGmlXP31xZsjqfs\n47Wasmd+9oVOtJizKS1UW11rHeBH0d+MB55cHPUWZRiiFVcpkNKRSp+wIMjofPsB\nnaPXF2zCZ5wr2y/AE3lzlDpnghFQRqB04pEL/HvkwQKBgQDFyWa6/wBpN31lXWCw\nq7uwDZXZmXvTa9aDGSRoA9UVxaVycpDXBlTyAl6TAFHiB30cgeiKOdl+yFDaKO7B\n0AUEdQP/PG91L1RF/yVDQ+n9LIZBQZ6G6/254wjqf88Uj8TxhKGREIiuxXASwHtN\n9BwiWB/b2h8jL4uMRetjmlu4dQKBgQC2dSjsUY+aEsMNW/3xSWCJmh48SiaPuRv4\nFsqHkEf9H8hUY497DiTVmZ6p73/JtjFP4xdWvMooNAHtdHjirxBVfaHhN354bahw\noiQCf9aRoh+jE/dzYq0oKHUIq2jC0EKSm5fYpOkbvkwPWRaq2gzq7b79U8Kr2onz\nV1sB6V2J4QKBgEpMdQ3r+xCLasyoPkk/yfrBr7gVYyGx0dxfloCIaASMwbDzfpt3\n4nMjFrnsFdZt777EwkEiqCRrRYweckpWRXw+JOk9n7UKuYKt7SaOnZigoDJlXxLa\nFe89bT0CFB1qQJZlt3fSGTZmLsqsieVnvSXdquIg1y+Vjbt9DIbXFnt9AoGAaaVf\nA66aIpE4hXS9jkd5cVNerHQW7eM18aloraP6OvN7MHnRa2QeKdvgRe9aI7atyN7p\n9ZwsxaiPcSmekUrif03WPKzAOwTrogQQK65P1FV2UhvOjO4W6wi580Ikz6B825zi\nCFw8aYb/TWe9O0I0dpcgnlgwgQdyFwd+t5WjRqECgYBxQ0J1n0BaxK+KxPqM9wJF\nqLOoq9nL/MYenA4NbMPOeeORzgNc45YV0mfEoGnZVGwQfmGfTj3V632aJaNOcmce\n5hUwi+c97wsGcX9+hf3DF1wfya3GjCu7AmeLIEL5NdZu8XnWn5fqekcPdq/je/OF\nf841ZDf1vii3KHqouRTbmQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-rbs5l@attendance-medical-records.iam.gserviceaccount.com",
+  "client_id": "107313330700403367826",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-rbs5l%40attendance-medical-records.iam.gserviceaccount.com"
+}
